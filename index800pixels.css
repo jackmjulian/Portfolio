@@ -127,13 +127,14 @@
         width: 75%;
         justify-content: center;
         align-items: center;
-        font-size: 2rem;
+        font-size: 1.25rem;
     }
     
     #row3-left-content {
         display: grid;
         justify-items: center;
         align-content: center;
+        width: 75%;
     }
     
     #row3-right {
