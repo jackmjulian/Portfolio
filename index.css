@@ -43,7 +43,7 @@ nav li {
 #portfolio-left {
     display: flex;
     background-color: #D0B8A8;
-    width: 25%;
+    width: 35%;
     font-size: 1rem;
 }
 
@@ -64,11 +64,11 @@ nav li {
         justify-content: center;
         align-items: center;
         font-size: 2em;
-        width: 75%;
+        width: 65%;
 }
 
 #intro-text {
-    width: 50%;
+    width: 75%;
 }
 
 #intro-text h1 {
@@ -87,7 +87,7 @@ nav li {
 #row2-left, #row4-left {
     display: flex;
     background-color: #85586F;
-    width: 25%;
+    width: 35%;
     justify-content: center;
     align-items: center;
     font-size: 2.5rem;
@@ -107,7 +107,7 @@ nav li {
     justify-content: center;
     align-items: center;
     font-size: 1.25em;
-    width: 75%;
+    width: 65%;
 }
 
 #row2-right-content {
@@ -124,7 +124,7 @@ nav li {
 #row3-left {
     display: flex;
     background-color: #F8EDE3;
-    width: 75%;
+    width: 65%;
     justify-content: center;
     align-items: center;
     font-size: 1rem;
@@ -148,7 +148,7 @@ nav li {
     justify-content: center;
     align-items: center;
     font-size: 2.5em;
-    width: 25%;
+    width: 35%;
 }
 
 #row4-right {
