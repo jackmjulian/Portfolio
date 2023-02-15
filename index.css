@@ -16,7 +16,7 @@ header {
 header .header-name {
     display: flex;
     flex: 1;
-    font-size: 2rem;
+    font-size: 1.5rem;
     align-items: center;
     padding: 1rem;
 }
@@ -29,7 +29,7 @@ nav ul {
 
 nav li {
     padding: 2rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     list-style: none;
 }
 
@@ -37,14 +37,14 @@ nav li {
     display: flex;
     justify-content: space-evenly;
     justify-content: center;
-    height: 40rem;
+    height: 30rem;
 }
 
 #portfolio-left {
     display: flex;
     background-color: #D0B8A8;
     width: 25%;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 #portfolio-left img {
@@ -63,7 +63,7 @@ nav li {
         background-color: #F8EDE3;
         justify-content: center;
         align-items: center;
-        font-size: 3em;
+        font-size: 2em;
         width: 75%;
 }
 
@@ -72,7 +72,7 @@ nav li {
 }
 
 #intro-text h1 {
-    font-size: 7rem;
+    font-size: 4rem;
     font-weight: 200;
     margin: 0;
 }
@@ -81,7 +81,7 @@ nav li {
     display: flex;
     justify-content: space-evenly;
     justify-content: center;
-    height: 40rem;
+    height: 30rem;
 }
 
 #row2-left, #row4-left {
@@ -90,7 +90,7 @@ nav li {
     width: 25%;
     justify-content: center;
     align-items: center;
-    font-size: 4rem;
+    font-size: 2.5rem;
     text-align: center;
 }
 
@@ -106,19 +106,19 @@ nav li {
     background-color: whitesmoke;
     justify-content: center;
     align-items: center;
-    font-size: 2em;
+    font-size: 1.25em;
     width: 75%;
 }
 
 #row2-right-content {
-    width: 50%;
+    width: 75%;
 }
 
 #grid-container-3 {
     display: flex;
     justify-content: space-evenly;
     justify-content: center;
-    height: 40rem;
+    height: 30rem;
 }
 
 #row3-left {
@@ -127,14 +127,19 @@ nav li {
     width: 75%;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 #row3-left-content {
     display: grid;
     justify-items: center;
     align-content: center;
+    width: 80%;
 }
+#row3-left-content dt {
+    font-size: 1.25rem;
+}
+
 
 #row3-right {
     display: flex;
@@ -142,7 +147,7 @@ nav li {
     color: white;
     justify-content: center;
     align-items: center;
-    font-size: 3em;
+    font-size: 2.5em;
     width: 25%;
 }
 
@@ -151,8 +156,13 @@ nav li {
     background-color: whitesmoke;
     justify-content: center;
     align-items: center;
-    font-size: 3em;
+    font-size: 2.5em;
     width: 75%;
+}
+
+#row4-right-content img {
+    width: 50%;
+    padding: 0 17rem;
 }
 
 .footer_container {
